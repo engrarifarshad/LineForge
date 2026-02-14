@@ -95,6 +95,9 @@ Lower line counts = More abstract look
 
 
 ## 📸 Example
+Input: Grayscale portrait
+Output: 50,000+ intelligently placed straight lines forming the same portrait
+
 
 ### Input vs Output
 
@@ -102,10 +105,6 @@ Lower line counts = More abstract look
 |-------------|--------------------|
 | ![Input](1.jpg) | ![Output](1_out.png) |
 
-Input: Grayscale portrait
-Output: 50,000+ intelligently placed straight lines forming the same portrait
-
-(You can add before/after images here in the repo)
 
 🎨 Why This Project?
 
