@@ -93,7 +93,14 @@ Edge thresholds → Control structural emphasis
 Higher line counts = More detail
 Lower line counts = More abstract look
 
-📸 Example
+
+## 📸 Example
+
+### Input vs Output
+
+| Input Image | Line Reconstruction |
+|-------------|--------------------|
+| ![Input](1.jpg) | ![Output](1_out.png) |
 
 Input: Grayscale portrait
 Output: 50,000+ intelligently placed straight lines forming the same portrait
